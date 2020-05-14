@@ -1,11 +1,16 @@
 _repo: A-Letter-to-Sir-Richard-Ford-and-the-other-Police-Magistrates-upon-the-prevalancy-of-Gaming-a__62065
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62065-h/images/cover.jpg
 creator:
   author:
     agent_name: Holloway, Robert
     gutenberg_agent_id: '50055'
     url: http://www.gutenberg.org/2009/agents/50055
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62065#A-Letter-to-Sir-Richard-Ford-and-the-other-Police-Magistrates-upon-the-prevalancy-of-Gaming-a_
 gutenberg_issued: '2020-05-09'
 gutenberg_type: Text
 identifiers:
